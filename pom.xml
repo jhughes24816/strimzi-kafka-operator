@@ -164,7 +164,7 @@
         <opentest4j.version>1.2.0</opentest4j.version>
         <jupiter.version>5.8.2</jupiter.version>
         <strimzi-test-container.version>0.104.0</strimzi-test-container.version>
-        <mockserver.version>5.13.2</mockserver.version>
+        <mockserver.version>5.15.0</mockserver.version>
         <mockwebserver.version>3.14.7</mockwebserver.version>
         <valid4j.version>1.1</valid4j.version>
         <javax.json.version>1.1.4</javax.json.version>
